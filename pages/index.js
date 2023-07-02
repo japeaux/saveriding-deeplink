@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-        Saveriding deeplink test <a href="saverinding://">saverinding://</a>
+        Saveriding deeplink test <a href="saveriding://">saveriding://</a>
         </h1>
 
       </main>
